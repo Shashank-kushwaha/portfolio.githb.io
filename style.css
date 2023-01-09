@@ -273,6 +273,13 @@ header .navbar ul li a:hover{
     /* color: white; */
     margin-left: -200px;
 }
+.skills .box-container .rang-javascript{
+    width: 20px;
+    height: 10px;
+    background-color: white;
+    /* color: white; */
+    margin-left: -200px;
+}
 
 
 
